@@ -2,7 +2,7 @@
 
 A fully autonomous, multimodal AI agent that conducts practical mock interviews for Microsoft Excel skills.
 
-**[[HuggingFace Link Here](https://huggingface.co/spaces/deepshikhar23/ai-ms-excel-interviewer)]** <- (Your Hugging Face Spaces URL)
+**[[HuggingFace Link Here](https://huggingface.co/spaces/deepshikhar23/ai-ms-excel-interviewer)]**
 
 ---
 ## About The Project
