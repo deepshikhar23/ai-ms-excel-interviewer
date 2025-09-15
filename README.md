@@ -27,17 +27,26 @@ This project is an AI-powered assessment tool designed to automate the technical
 
 ## Setup and Installation
 
-1.  Clone the repository:
+1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/deepshikhar23/ai-excel-interviewer.git](https://github.com/deepshikhar23/ai-excel-interviewer.git)
     ```
-2.  Install dependencies:
+
+2.  **Navigate to the project directory:**
     ```bash
     cd YOUR_REPO_NAME
+    ```
+
+3.  **Install dependencies:**
+    ```bash
     pip install -r requirements.txt
     ```
-3.  Set up your environment variables by creating a `.env` file and adding your `GEMINI_API_KEY`.
-4.  Run the application:
+
+4.  **Set up environment variables:**
+    Create a `.env` file in the root directory and add your Gemini API key:
+    `GEMINI_API_KEY="YOUR_API_KEY_HERE"`
+
+5.  **Run the application:**
     ```bash
     streamlit run app.py
     ```
